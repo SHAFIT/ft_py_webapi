@@ -12,3 +12,13 @@ Requirements :
 
 These are required for this tutorial. For installation instruction use google or its own websites. Its Easy ;)
 
+How to run the program 
+
+- Run the service
+$ python api.py
+
+- open webbrowser and input URL
+http://127.0.0.1:5000/             - for homepage
+http://127.0.0.1:5000/books?no=1   - for items from the dictionary
+http://127.0.0.1:5000/books/all    - for all items from dictionay
+http://127.0.0.1:5000/timeofserver - time of the server   
